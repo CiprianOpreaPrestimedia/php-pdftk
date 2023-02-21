@@ -1,5 +1,5 @@
 {
-    "name": "mikehaertl/php-pdftk",
+    "name": "interactively/php-pdftk",
     "description": "A PDF conversion and form utility based on pdftk.",
     "keywords": ["pdf", "pdftk"],
     "type": "library",
